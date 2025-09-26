@@ -136,11 +136,3 @@ If `python` command is not found, use `python3`:
 python3 -m venv venv
 python3 app.py
 ```
-
-## Data
-
-The application uses GPT-2 model predictions for Australian fish species abundance:
-- Sites: 702 sampling sites
-- Species: 1158 different species
-- Observations: 351,000 data points
-- Dataset size: 1.2GB (managed with Git LFS)
